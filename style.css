@@ -1,0 +1,33 @@
+body {
+      margin:0;
+      background-color:white;
+      text-align:center;
+      font-family:Arial,sans-sarif;
+}
+
+.header {
+         background-color:lightgreen;
+         color:white;
+         padding:30px;
+         margin:0;
+}
+
+
+
+
+
+button {
+         background-color: lightgreen;
+         color: white;
+         padding: 12px ,25px;
+         border: none;
+         border-radius: 6px;
+         font-size: 16px;
+         cursor: pointer;
+}
+
+button:hover {
+              background-color:lightgreen;
+}
+      
+      
